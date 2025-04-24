@@ -82,7 +82,7 @@
         <h2>Education</h2>
         <article>
             <h3>Bachelor of Science in Computer Science</h3>
-            <p><strong>Lagos state university- 2025</strong></p>
+            <p><strong>Lagos state university- 2026</strong></p>
         </article>
     </section>
     <!-- Footer Section -->
